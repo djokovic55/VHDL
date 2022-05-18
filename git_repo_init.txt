@@ -1,0 +1,11 @@
+git init
+git add
+git config --global user.email "" 
+git config --global user.name ""
+git commit -m "message"
+
+git remote add <repo_name> <url>
+git push --set-upstream <repo_name> master
+
+Username on the git server
+Personal token
